@@ -25,8 +25,9 @@ Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
     - *A small local database wrapper that works right out of the box, intended for small projects and testing.*
     - 1.2m+ downloads
 - [Server Captcha Bot](https://top.gg/bot/captcha)
-    - *A Discord bot that prevents automated user accounts through the use of a Captcha-on-join system.*
+    - *A Discord bot that deters automated user accounts through the use of a Captcha-on-join system.*
     - Serving over 5 million users in 27k+ Discord guilds
 - [quick.hook](https://www.npmjs.com/package/quick.hook)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 174k+ downloads
+- *+ My GitHub Repositories!*
