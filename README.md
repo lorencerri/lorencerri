@@ -30,4 +30,5 @@ Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
 - [quick.hook](https://www.npmjs.com/package/quick.hook)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 174k+ downloads
-- *+ My GitHub Repositories!*
+
+*+ My GitHub Repositories!*
