@@ -20,7 +20,7 @@ Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
 > [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *1.4m+ Total Downloads* <br>
 > [Website](https://plexidev.org) | [Twitter](https://twitter.com/plexidev)
 
-## Projects
+## Notable Projects
 - [quick.db](https://npmjs.org/quick.db)
     - *A small local database wrapper that works right out of the box, intended for small projects and testing.*
     - 1.2m+ downloads
@@ -30,5 +30,3 @@ Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
 - [quick.hook](https://www.npmjs.com/package/quick.hook)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 174k+ downloads
-
-*+ My GitHub Repositories!*
