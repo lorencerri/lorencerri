@@ -31,4 +31,3 @@ Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 174k+ downloads
     
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=truexpixels&show_icons=true)
