@@ -1,6 +1,6 @@
 ## Contact
 Twitter: [@truexpixels](https://twitter.com/truexpixels) <br>
-Email: [loren.cerri@plexidev.org](mailto:loren.cerri@plexidev.org)
+Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 
 ## Stack
 - JavaScript
