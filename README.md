@@ -32,3 +32,7 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     - 174k+ downloads
     
 **More projects available here: [truexpixels.github.io](https://truexpixels.github.io)**
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=truexpixels&include_all_commits=true&count_private=true&bg_color=35,42275a,734b6d&text_color=FFF&hide_title=true)
