@@ -1,5 +1,5 @@
 ## Contact
-Twitter: [@truexpixels](https://twitter.com/truexpixels) <br>
+Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
 Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 
 ## Plexi Development
