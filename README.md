@@ -20,6 +20,6 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 174k+ downloads
     
-**More projects available here: [truexpixels.github.io](https://truexpixels.github.io)**
+**More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
 
 [![](https://github-readme-stats.vercel.app/api?username=truexpixels&include_all_commits=true&count_private=true&bg_color=35,42275a,734b6d&text_color=FFF&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
