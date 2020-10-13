@@ -2,8 +2,8 @@
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
 Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 
-## Plexi Development
-*⤷ Founder/Developer*
+## Primary Personal Project
+*⤷ Plexi Development (Coding Group) - Founder/Developer
 > [Community](https://discord.gg/plexidev) — *26k+ Members* <br>
 > [YouTube](https://youtube.com/c/TrueXPixels) — *5.1k+ Subscribers / 1.2m+ Views* <br>
 > [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *1.4m+ Total Downloads* <br>
