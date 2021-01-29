@@ -1,7 +1,8 @@
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
-Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com) <br>
-LinkedIn: [linkedin.com/in/lorencerri](www.linkedin.com/in/lorencerri) 
+LinkedIn: [lorencerri](www.linkedin.com/in/lorencerri) <br>
+Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
+
 
 ## Plexi Development
 *⤷ Founder/Developer*
