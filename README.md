@@ -6,9 +6,9 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 
 ## Plexi Development
 *⤷ Founder/Developer*
-> [Community](https://discord.gg/plexidev) — *36k+ Members* <br>
+> [Community](https://discord.gg/plexidev) — *38k+ Members* <br>
 > [YouTube](https://youtube.com/c/TrueXPixels) — *5.6k+ Subscribers / 1.5m+ Views* <br>
-> [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *3.7m+ Total Downloads* <br>
+> [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *4m+ Total Downloads* <br>
 > [Website](https://plexidev.org) | [Twitter](https://twitter.com/plexidev)
 
 ## Notable Projects
