@@ -24,10 +24,4 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     
 **More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
 
-## Collective Idle RPG
-
-**Latest Action:**
-
-![Stats](https://idlerpg.plexidev.org/stats)
-
-**Actions**
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=lorencerri&include_all_commits=true&count_private=true&bg_color=35,42275a,734b6d&text_color=FFF&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
