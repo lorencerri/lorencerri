@@ -28,12 +28,6 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 
 **Latest Action:**
 
-**Stats**
-- Attack:
-- Defence:
-- Strength:
-- Ranged:
-- Mining:
-- Wood Cutting:
+![Stats](https://idlerpg.plexidev.org/stats)
 
 **Actions**
