@@ -25,3 +25,10 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 **More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
 
 ## Collective Idle RPG
+**Stats**
+- Attack:
+- Defence:
+- Strength:
+- Ranged:
+- Mining:
+- Wood Cutting:
