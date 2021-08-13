@@ -17,7 +17,7 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     - 3.6m+ downloads, used in 31k+ public GitHub repos
 - [Server Captcha Bot](https://top.gg/bot/captcha)
     - *A Discord bot that deters automated user accounts through the use of a Captcha-on-join system.*
-    - Serving over 15 million users in 73k+ Discord servers
+    - Served over 18 million users in 80k+ Discord servers before being sold in **August of 2021**.
 - [quick.hook](https://www.npmjs.com/package/quick.hook)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 346k+ downloads
