@@ -24,4 +24,4 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     
 **More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
 
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=lorencerri&include_all_commits=true&count_private=true&bg_color=35,0F2027,203A43,2C5364&text_color=FFF&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/lorencerri/lorencerri/blob/master/github-metrics.svg)
