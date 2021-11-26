@@ -17,13 +17,13 @@ jobs:
           template: classic
           config_timezone: America/New_York
           plugin_lines: yes
-          plugin_stargazers: yes
+          plugin_stargazers: no
           config_padding: 16, 48
           # base
           base: activity, community, repositories, metadata
           repositories_forks: no
           # habits
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 1000       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
