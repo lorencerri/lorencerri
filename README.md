@@ -14,13 +14,13 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 ## Notable Projects
 - [quick.db](https://npmjs.org/quick.db)
     - *A small local database wrapper that works right out of the box, intended for small projects and testing.*
-    - 3.6m+ downloads, used in 31k+ public GitHub repos
+    - 4.1m+ downloads, used in 31k+ public GitHub repos
 - [Server Captcha Bot](https://top.gg/bot/512333785338216465)
     - *A Discord bot that deters automated user accounts through the use of a Captcha-on-join system.*
     - Served over 18 million users in 80k+ [Discord](https://discord.gg/) servers before being sold in **August of 2021**.
 - [quick.hook](https://www.npmjs.com/package/quick.hook)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
-    - 346k+ downloads
+    - 360k+ downloads
     
 **More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
 
