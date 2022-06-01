@@ -1,8 +1,36 @@
+### Doom!
+
+_**Note**, it will take a few seconds to generate the video of the save file after clicking..._<br>
+_**Alternatively**, you can watch the output without generating a new one <a href="https://doom.plexidev.org/video/github.mp4">here</a>._
+<a href="https://doom.plexidev.org/video/github/generate?" target="_blank">
+<img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
+</a>
+
+### Current Input
+
+<img src="https://doom.plexidev.org/input/github?cf" />
+
+### Controls
+
+-   <a href="https://doom.plexidev.org/input/github/append?input=,&callback=https://github.com/lorencerri">Add Frame</a> [<a href="https://doom.plexidev.org/input/github/append?input=,,,,,,,,,,&callback=https://github.com/lorencerri">10x</a>] [<a href="https://doom.plexidev.org/input/github/append?input=,,,,,,,,,,,,,,,,,,,,,,,,,&callback=https://github.com/lorencerri">25x</a>]
+-   <a href="https://doom.plexidev.org/input/github/append?input=x&callback=https://github.com/lorencerri">Escape</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=e&callback=https://github.com/lorencerri">Enter</a>
+-   Arrow [<a href="https://doom.plexidev.org/input/github/append?input=l&callback=https://github.com/lorencerri">Left</a>] [<a href="https://doom.plexidev.org/input/github/append?input=r&callback=https://github.com/lorencerri">Right</a>] [<a href="https://doom.plexidev.org/input/github/append?input=u&callback=https://github.com/lorencerri">Up</a>] [<a href="https://doom.plexidev.org/input/github/append?input=d&callback=https://github.com/lorencerri">Arrow</a>]
+-   <a href="https://doom.plexidev.org/input/github/append?input=ax&callback=https://github.com/lorencerri">Alt</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=s&callback=https://github.com/lorencerri">Shift</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=p&callback=https://github.com/lorencerri">Space</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=f&callback=https://github.com/lorencerri">CTRL</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=t&callback=https://github.com/lorencerri">Tab</a>
+-   Shift + [<a href="https://doom.plexidev.org/input/github/append?input=U&callback=https://github.com/lorencerri">Up Arrow</a>] [<a href="https://doom.plexidev.org/input/github/append?input=D&callback=https://github.com/lorencerri">Down Arrow</a>] [<a href="https://doom.plexidev.org/input/github/append?input=L&callback=https://github.com/lorencerri">Left Arrow</a>] [<a href="https://doom.plexidev.org/input/github/append?input=R&callback=https://github.com/lorencerri">Right Arrow</a>]
+-   Strafe [<a href="https://doom.plexidev.org/input/github/append?input=<&callback=https://github.com/lorencerri">Left</a>] [<a href="https://doom.plexidev.org/input/github/append?input=>&callback=https://github.com/lorencerri">Right</a>]
+-   <a href="https://doom.plexidev.org/input/github/append?input=y&callback=https://github.com/lorencerri">Yes</a>
+-   <a href="https://doom.plexidev.org/input/github/append?input=n&callback=https://github.com/lorencerri">No</a>
+-   Number [<a href="https://doom.plexidev.org/input/github/append?input=1&callback=https://github.com/lorencerri">1</a>] [<a href="https://doom.plexidev.org/input/github/append?input=2&callback=https://github.com/lorencerri">2</a>] [<a href="https://doom.plexidev.org/input/github/append?input=3&callback=https://github.com/lorencerri">3</a>] [<a href="https://doom.plexidev.org/input/github/append?input=4&callback=https://github.com/lorencerri">4</a>] [<a href="https://doom.plexidev.org/input/github/append?input=5&callback=https://github.com/lorencerri">5</a>] [<a href="https://doom.plexidev.org/input/github/append?input=6&callback=https://github.com/lorencerri">6</a>] [<a href="https://doom.plexidev.org/input/github/append?input=7&callback=https://github.com/lorencerri">7</a>]
+
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
 LinkedIn: [lorencerri](https://www.linkedin.com/in/lorencerri) <br>
 Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
-
 
 ## Plexi Development
 *⤷ Founder/Developer*
