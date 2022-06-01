@@ -11,7 +11,6 @@ _**Alternatively**, you can watch the output without generating a new one <a hre
 <img src="https://doom.plexidev.org/input/github?cf" />
 
 ### Controls
-
 -   <a href="https://doom.plexidev.org/input/github/append?input=,&callback=https://github.com/lorencerri">Add Frame</a> [<a href="https://doom.plexidev.org/input/github/append?input=,,,,,,,,,,&callback=https://github.com/lorencerri">10x</a>] [<a href="https://doom.plexidev.org/input/github/append?input=,,,,,,,,,,,,,,,,,,,,,,,,,&callback=https://github.com/lorencerri">25x</a>]
 -   <a href="https://doom.plexidev.org/input/github/append?input=x&callback=https://github.com/lorencerri">Escape</a>
 -   <a href="https://doom.plexidev.org/input/github/append?input=e&callback=https://github.com/lorencerri">Enter</a>
@@ -27,7 +26,7 @@ _**Alternatively**, you can watch the output without generating a new one <a hre
 -   <a href="https://doom.plexidev.org/input/github/append?input=n&callback=https://github.com/lorencerri">No</a>
 -   Number [<a href="https://doom.plexidev.org/input/github/append?input=1&callback=https://github.com/lorencerri">1</a>] [<a href="https://doom.plexidev.org/input/github/append?input=2&callback=https://github.com/lorencerri">2</a>] [<a href="https://doom.plexidev.org/input/github/append?input=3&callback=https://github.com/lorencerri">3</a>] [<a href="https://doom.plexidev.org/input/github/append?input=4&callback=https://github.com/lorencerri">4</a>] [<a href="https://doom.plexidev.org/input/github/append?input=5&callback=https://github.com/lorencerri">5</a>] [<a href="https://doom.plexidev.org/input/github/append?input=6&callback=https://github.com/lorencerri">6</a>] [<a href="https://doom.plexidev.org/input/github/append?input=7&callback=https://github.com/lorencerri">7</a>]
 
-## Meta
+### Meta
 - <a href="https://doom.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Input</a>
 
 ## Contact
