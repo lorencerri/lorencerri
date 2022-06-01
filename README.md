@@ -6,7 +6,7 @@ _**Also**, You can middle click to open the video in a new tab! (Click <a href="
 <img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
 </a> <br>
 
-### Current Input
+### Current Input (<a href="https://doom.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">reset</a>)
 
 <img src="https://doom.plexidev.org/input/github?cf" />
 
