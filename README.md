@@ -28,6 +28,7 @@ _**Alternatively**, you can watch the output without generating a new one <a hre
 
 ### Meta
 - <a href="https://doom.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Input</a>
+- Load Save [<a href="https://doom.plexidev.org/input/github/load/win?callback=https://github.com/lorencerri">Win</a>]
 
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
