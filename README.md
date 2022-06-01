@@ -1,6 +1,6 @@
 ### Doom!
 
-_**Note**, it will take a few seconds to generate the video of the save file after clicking..._<br>
+_**Note**, it will take a few seconds to generate the video of the save file after clicking (especially if you load a save file)..._<br>
 _**Alternatively**, you can watch the output without generating a new one <a href="https://doom.plexidev.org/video/github.mp4">here</a>._
 <a href="https://doom.plexidev.org/video/github/generate?" target="_blank">
 <img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
