@@ -28,7 +28,7 @@ _**Also**, You can middle click to open the video in a new tab! (Click <a href="
 
 ### Meta
 - <a href="https://doom.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Input</a>
-- Load Save [<a href="https://doom.plexidev.org/input/github/load/win?callback=https://github.com/lorencerri">Win</a>] [<a href="https://doom.plexidev.org/input/github/load/turn?callback=https://github.com/lorencerri">Spin</a>]
+- Load Save [<a href="https://doom.plexidev.org/input/github/load/Win?callback=https://github.com/lorencerri">Win</a>] [<a href="https://doom.plexidev.org/input/github/load/Spin?callback=https://github.com/lorencerri">Spin</a>]
 
 ### Stats
 <img src="https://doom.plexidev.org/stats/github?" />
