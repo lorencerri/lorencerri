@@ -5,6 +5,7 @@ _**Alternatively**, you can watch the output without generating a new one <a hre
 <a href="https://doom.plexidev.org/video/github/generate?" target="_blank">
 <img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
 </a>
+*You can middle click to open the video in a new tab!*
 
 ### Current Input
 
