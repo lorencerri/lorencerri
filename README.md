@@ -1,4 +1,4 @@
-### Doom! (<a href="https://fs.plexidev.org/api/JkVbeCk.mp4">Demo Video</a>)
+### Play Doom! (<a href="https://fs.plexidev.org/api/JkVbeCk.mp4">Demo Video</a>)
 
 _**Note**, it will take a few seconds to generate the video of the save file after clicking (especially if you load a save file)._<br>
 _**Also**, You can middle click to open the video in a new tab! (Click <a href="https://doom.plexidev.org/video/github.mp4" target="_blank">here</a> to force-load cached video)_
