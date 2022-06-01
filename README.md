@@ -4,7 +4,7 @@ _**Note**, it will take a few seconds to generate the video of the save file aft
 _**Alternatively**, you can watch the output without generating a new one <a href="https://doom.plexidev.org/video/github.mp4">here</a>._
 <a href="https://doom.plexidev.org/video/github/generate?" target="_blank">
 <img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
-</a>
+</a> <br>
 *You can middle click to open the video in a new tab!*
 
 ### Current Input
