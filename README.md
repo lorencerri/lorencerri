@@ -3,7 +3,7 @@
 _**Note**, it will take a few seconds to render the save file after clicking (especially if you load a save)_<br>
 _**Also**, You can **middle click** to open the video in a new tab! (Click <a href="https://doom.plexidev.org/video/github.mp4" target="_blank">here</a> to force-load cached video)_
 <a href="https://doom.plexidev.org/video/github/generate?">
-<img src="https://github.com/lorencerri/play-doom/blob/main/static/doom-video.jpg?raw=true">
+<img src="https://github.com/lorencerri/lorencerri/blob/master/preview.jpg?raw=true">
 </a> <br>
 
 ### Current Input (<a href="https://doom.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">reset</a>)
