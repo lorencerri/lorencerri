@@ -1,4 +1,4 @@
-**Play Doom!** <img src="https://doom-api.plexidev.org/stats" />
+**Play Doom!**
 
 <img src="https://doom-api.plexidev.org/frame/github/"><br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
@@ -47,5 +47,3 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     - 360k+ downloads
     
 **More projects available here: [lorencerri.github.io](https://lorencerri.github.io)**
-
-![Metrics](https://github.com/lorencerri/lorencerri/blob/master/github-metrics.svg)
