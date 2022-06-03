@@ -21,7 +21,7 @@
 
 ### Meta
 
-- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Input</a>
+- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a>
 
 **## END_GAME ##**
 
