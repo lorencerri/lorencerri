@@ -12,7 +12,7 @@
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=s,&callback=https://github.com/lorencerri">Shift</a>
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=p,&callback=https://github.com/lorencerri">Space</a> (Use)
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=f,&callback=https://github.com/lorencerri">CTRL</a> (Shoot)
-- <a href="https://doom-api.plexidev.org/input/github/append?keys=t,&callback=https://github.com/lorencerri">Tab</a>
+- <a href="https://doom-api.plexidev.org/input/github/append?keys=t,&callback=https://github.com/lorencerri">Tab</a> (Map)
 - Shift + [<a href="https://doom-api.plexidev.org/input/github/append?keys=U,&callback=https://github.com/lorencerri">Up Arrow</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=D,&callback=https://github.com/lorencerri">Down Arrow</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=L,&callback=https://github.com/lorencerri">Left Arrow</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=R,&callback=https://github.com/lorencerri">Right Arrow</a>]
 - Strafe [<a href="https://doom-api.plexidev.org/input/github/append?keys=<,&callback=https://github.com/lorencerri">Left</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=>,&callback=https://github.com/lorencerri">Right</a>]
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=y,&callback=https://github.com/lorencerri">Yes</a>
