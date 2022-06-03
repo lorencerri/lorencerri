@@ -22,6 +22,10 @@
 ### Meta Actions
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a>
+- 
+### Stats
+
+<img src="https://doom-api.plexidev.org/stats" />
 
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
