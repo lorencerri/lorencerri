@@ -22,6 +22,8 @@
 ### Meta Actions
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a>
+- <a href="https://doom-api.plexidev.org/video/github/current">Get full video of current run</a>
+- <a href="https://doom-api.plexidev.org/video/github/full">Get full video of all runs combined</a>
 
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
