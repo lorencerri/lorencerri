@@ -1,4 +1,4 @@
-**Play Doom!** ([source](https://github.com/lorencerri/play-doom))
+**Play Doom!**
 
 <img src="https://doom-api.plexidev.org/frame/github/"><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
@@ -19,7 +19,7 @@
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=n,&callback=https://github.com/lorencerri">No</a>
 - Item Slot [<a href="https://doom-api.plexidev.org/input/github/append?keys=2,&callback=https://github.com/lorencerri">2</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=3,&callback=https://github.com/lorencerri">3</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=4,&callback=https://github.com/lorencerri">4</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=5,&callback=https://github.com/lorencerri">5</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=6,&callback=https://github.com/lorencerri">6</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=7,&callback=https://github.com/lorencerri">7</a>]
 
-### Meta
+### Meta Actions
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a>
 
