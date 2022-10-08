@@ -1,4 +1,4 @@
-**Play Doom!**
+**Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
 ![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
