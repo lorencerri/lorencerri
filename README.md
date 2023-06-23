@@ -2,7 +2,7 @@
 
 ![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
-- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset from the beginning)
+- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset level)
 
 ### Controls (<a href="https://doom-api.plexidev.org/input/github/rewind/?callback=https://github.com/lorencerri">rewind</a>)
 
