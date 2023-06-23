@@ -2,6 +2,8 @@
 
 ![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
+- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset from the beginning)
+
 ### Controls (<a href="https://doom-api.plexidev.org/input/github/rewind/?callback=https://github.com/lorencerri">rewind</a>)
 
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=,&callback=https://github.com/lorencerri">Idle Frame</a> [<a href="https://doom-api.plexidev.org/input/github/append?keys=,,,,,,,,,,&callback=https://github.com/lorencerri">10x</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=,,,,,,,,,,,,,,,,,,,,,,,,,&callback=https://github.com/lorencerri">25x</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&callback=https://github.com/lorencerri">50x</a>]
@@ -16,10 +18,6 @@
 - Strafe [<a href="https://doom-api.plexidev.org/input/github/append?keys=j,j,j,j,j,&callback=https://github.com/lorencerri">Left</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=k,k,k,k,k,&callback=https://github.com/lorencerri">Right</a>]
 - <a href="https://doom-api.plexidev.org/input/github/append?keys=y,&callback=https://github.com/lorencerri">Yes</a> / <a href="https://doom-api.plexidev.org/input/github/append?keys=n,&callback=https://github.com/lorencerri">No</a>
 - Item Slot [<a href="https://doom-api.plexidev.org/input/github/append?keys=2,&callback=https://github.com/lorencerri">2</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=3,&callback=https://github.com/lorencerri">3</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=4,&callback=https://github.com/lorencerri">4</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=5,&callback=https://github.com/lorencerri">5</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=6,&callback=https://github.com/lorencerri">6</a>] [<a href="https://doom-api.plexidev.org/input/github/append?keys=7,&callback=https://github.com/lorencerri">7</a>]
-
-### Meta Actions
-
-- <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a>
 
 ### Replays
 
