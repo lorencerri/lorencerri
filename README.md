@@ -1,3 +1,5 @@
+> GitHub doesn't seem to be reloading the gif(s) in real-time anymore, check back later to see if it's fixed!
+
 **Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
 ![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
