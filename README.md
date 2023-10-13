@@ -1,4 +1,4 @@
-> GitHub doesn't seem to be reloading the gif(s) in real-time anymore, check back later to see if it's fixed!
+> GitHub seems to be caching the .gif(s) longer than normal so they don't update in real time anymore, check back later to see if it's fixed!
 
 **Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
