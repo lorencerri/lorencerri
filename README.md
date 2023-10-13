@@ -1,6 +1,6 @@
 **Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
-![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
+![](https://doom-api.plexidev.org/frame/github/?type=.gif&entropy=rand)<br /><img src="https://doom-api.plexidev.org/input/github?image=true&entropy=rand" />
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset level)
 
