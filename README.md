@@ -1,8 +1,6 @@
-> GitHub seems to be caching the .gif(s) longer than normal so they don't update in real time anymore, check back later to see if it's fixed!
-
 **Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
-![](https://doom-api.plexidev.org/frame/github/?type=.gif&test)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
+![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset level)
 
