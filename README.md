@@ -2,7 +2,7 @@
 
 **Play Doom! (<a href="https://github.com/lorencerri/play-doom">Source</a>)**
 
-![](https://doom-api.plexidev.org/frame/github/?type=.gif&entropy=rand)<br /><img src="https://doom-api.plexidev.org/input/github?image=true&entropy=rand" />
+![](https://doom-api.plexidev.org/frame/github/?type=.gif)<br /><img src="https://doom-api.plexidev.org/input/github?image=true" />
 
 - <a href="https://doom-api.plexidev.org/input/github/reset/?callback=https://github.com/lorencerri">Reset Game</a> (If stuck or want to reset level)
 
@@ -36,7 +36,7 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 *⤷ Founder/Developer*
 > [Community](https://discord.gg/plexidev) — *38k+ Members* <br>
 > [YouTube](https://youtube.com/c/TrueXPixels) — *5.6k+ Subscribers / 1.5m+ Views* <br>
-> [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *4.5m+ Total Downloads* <br>
+> [Packages](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *4.6m+ Total Downloads* <br>
 > [Website](https://plexidev.org) | [Twitter](https://twitter.com/plexidev)
 
 ## Notable Projects
