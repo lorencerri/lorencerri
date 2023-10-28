@@ -50,4 +50,4 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
     - *An extension for discord.js that allows for custom icons & usernames for Discord messages, utilizes webhooks.*
     - 380k+ downloads
     
-**Check out more of my stuff @ [loren.plexi.dev](https://loren.plexi.dev)
+***Check out more of my stuff @ [loren.plexi.dev](https://loren.plexi.dev)***
