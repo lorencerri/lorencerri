@@ -1,3 +1,5 @@
+> # [*loren.plexi.dev*](https://loren.plexi.dev)
+
 <h3 align="center">Play Doom</h3>
 
 <p align="center">
@@ -9,14 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=u,u,u,u,u,&callback=https://github.com/lorencerri" title="Forward x5"><kbd> &nbsp;&#9650;&nbsp; </kbd></a><br />
-  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=l,l,l,l,l,&callback=https://github.com/lorencerri" title="Turn left x5"><kbd> &#9664; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=,&callback=https://github.com/lorencerri" title="Wait one frame"><kbd> &#183; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=r,r,r,r,r,&callback=https://github.com/lorencerri" title="Turn right x5"><kbd> &#9654; </kbd></a><br />
-  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=d,d,d,d,d,&callback=https://github.com/lorencerri" title="Back x5"><kbd> &nbsp;&#9660;&nbsp; </kbd></a>
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=u,u,u,u,u,&callback=https://github.com/lorencerri" title="Forward x5"><kbd> &#9650;&#9650; </kbd></a><br />
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=u,&callback=https://github.com/lorencerri" title="Forward one frame"><kbd> &nbsp;&#9650;&nbsp; </kbd></a><br />
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=l,l,l,l,l,&callback=https://github.com/lorencerri" title="Turn left x5"><kbd> &#9664;&#9664; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=l,&callback=https://github.com/lorencerri" title="Turn left one frame"><kbd> &nbsp;&#9664;&nbsp; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=,&callback=https://github.com/lorencerri" title="Wait one frame"><kbd> &#183; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=r,&callback=https://github.com/lorencerri" title="Turn right one frame"><kbd> &nbsp;&#9654;&nbsp; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=r,r,r,r,r,&callback=https://github.com/lorencerri" title="Turn right x5"><kbd> &#9654;&#9654; </kbd></a><br />
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=d,&callback=https://github.com/lorencerri" title="Back one frame"><kbd> &nbsp;&#9660;&nbsp; </kbd></a><br />
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=d,d,d,d,d,&callback=https://github.com/lorencerri" title="Back x5"><kbd> &#9660;&#9660; </kbd></a>
 </p>
 
 <p align="center">
-  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=f,f,f,f,f,&callback=https://github.com/lorencerri" title="Shoot x5"><kbd> &nbsp;FIRE&nbsp; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=p,&callback=https://github.com/lorencerri" title="Open doors, flip switches"><kbd> USE </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=t,&callback=https://github.com/lorencerri" title="Toggle automap"><kbd> MAP </kbd></a>
-  &nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=x,&callback=https://github.com/lorencerri" title="Open or close the menu"><kbd> ESC </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=e,&callback=https://github.com/lorencerri" title="Confirm a menu choice"><kbd> ENTER </kbd></a>
+  <a href="https://doom-api-v2.plexidev.org/input/github/append?keys=f,&callback=https://github.com/lorencerri" title="Shoot once"><kbd> &nbsp;FIRE&nbsp; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=f,f,f,f,f,&callback=https://github.com/lorencerri" title="Shoot x5"><kbd> FIRE&#9654;&#9654; </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=p,&callback=https://github.com/lorencerri" title="Open doors, flip switches"><kbd> USE </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=t,&callback=https://github.com/lorencerri" title="Toggle automap"><kbd> MAP </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=x,&callback=https://github.com/lorencerri" title="Open or close the menu"><kbd> ESC </kbd></a>&nbsp;&nbsp;<a href="https://doom-api-v2.plexidev.org/input/github/append?keys=e,&callback=https://github.com/lorencerri" title="Confirm a menu choice"><kbd> ENTER </kbd></a>
 </p>
 
 <p align="center">
