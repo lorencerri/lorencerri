@@ -72,8 +72,6 @@
   <img src="https://doom-api-v2.plexidev.org/stats" alt="global play-doom statistics" />
 </p>
 
-**## END_GAME ##**
-
 ## Contact
 Twitter: [@lorencerri](https://twitter.com/lorencerri) <br>
 Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
