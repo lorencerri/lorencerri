@@ -1,5 +1,3 @@
-> # [*loren.plexi.dev*](https://loren.plexi.dev)
-
 <h3 align="center">Play Doom</h3>
 
 <p align="center">
